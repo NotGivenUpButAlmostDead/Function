@@ -6,24 +6,6 @@
 		return maximum(el->right);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 TreeElement* udal_hecnhet(TreeElement* root) //Функция удаления четных листьев бинарного дерева
 {
 	if (!root)
